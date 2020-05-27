@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Available Routes</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+<style>
+  body {
+    margin-top: 0px; 
+    padding-top: 0px;  
+    background: rgb(158, 157, 157);
+    background-size: cover; 
+    background-position: center; 
+    background: url('https://s3.amazonaws.com/fest-production/2017/05/11/16/21/02/586/AfrikaBurn_2017_Peter_Ruprecht.JPG')
+  }
+</style>
+
+  <div class="container text-center">
+    <h1 class="jumbotron">Available Routes</h1>
+    <div>
+        <p>/all : All found venue </p> 
+        <p>/this : This month venue </p> 
+        <p>/next : Next month venue </p> 
+        <br>
+      <ul style="list-style: none;">
+        <style>
+          li {
+            font-size: 20px;
+          }
+          #artist {
+            font-weight: bold;
+          }
+        </style>
+          <li style="color:rgba(26, 5, 145, 0.911)" id="artist">Artist performing at event</li>
+          <li style="color:rgba(245, 58, 11, 0.911)">Number of followers and tracks posted on SC</li>
+          <li style="color:rgba(29, 158, 47, 0.945)">When</li>
+          <br>
+      </ul>
+    </div>
+  </div>
+</body>
+
+</html>

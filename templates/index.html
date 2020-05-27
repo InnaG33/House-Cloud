@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Best DJs Found</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+  <style>
+    body {
+      margin-top: 0px; 
+      padding-top: 0px;  
+      background: rgb(158, 157, 157);
+      background: url('https://i0.wp.com/blog.davidjulian.com/wp-content/uploads/Burning-Man-Burn-overview-Pano_1-2685-Pano_3Kp.jpg')
+    }
+  </style>
+
+  <div class="container text-center">
+    <h1 class="jumbotron">Best DJs in the City</h1>
+    <div>
+      <ul style="list-style: none;">
+        <style>
+          li {
+            font-size: 20px;
+          }
+          #artist {
+            font-weight: bold;
+          }
+        </style>
+
+        <!-- Loop through the dictionary -->
+        <!-- for artist in artists:
+        print (artist, artists[artist]) -->
+        {% for artist in artists %}
+          <li style="color:rgba(26, 5, 145, 0.911)" id="artist">{{ artist }} performing at {{ artists[artist][0] }}</li>
+          <li style="color:rgba(245, 58, 11, 0.911)">{{ artists[artist][1] }} SC followers and {{ artists[artist][2] }} posted tracks</li>
+          <li style="color:rgba(29, 158, 47, 0.945)">When: on {{ artists[artist][3] }} at {{ artists[artist][4] }}</li>
+          <br>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</body>
+
+</html>

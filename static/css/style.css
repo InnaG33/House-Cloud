@@ -1,0 +1,18 @@
+.jumbotron {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background: rgb(3, 9, 34);
+    color: rgb(107, 235, 192)
+  }
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+    background: rgb(249, 252, 215);
+  }
+p {
+    color:rgb(3, 9, 34);
+    font-size: 24px;
+  }
+
