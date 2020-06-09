@@ -1,118 +1,110 @@
-,Artist,Club,City,Date,Time,Followers,Tracks
-0,Tiesto , 1015 Folsom ,San Francisco, Jun 19 ,10pm-3am,1871347,822
-1,Marshmello Presents Joytime: Into The Melloverse Tour , Bill Graham Civic Auditorium ,San Francisco, Sep 29 ,7pm,1280479,118
-2,San Holo , Bill Graham Civic Auditorium ,San Francisco, Nov 21 ,8pm,458188,134
-3,Robin Schulz , Love And Propaganda ,San Francisco, Jun 27 ,9:30pm-2am,429822,217
-4,Digitalism , The Independent ,San Francisco, May 23 ,9pm,360904,226
-5,Slander , Bill Graham Civic Auditorium ,San Francisco, Oct 30 ,8pm,357115,57
-6,Snakehips , 1015 Folsom ,San Francisco, Oct 15 ,9pm-2am,312553,110
-7,Audien , Park Ultra Lounge ,Sacramento, Jun 5 ,9pm-2am,179511,96
-8,Mat Zo , Audio ,San Francisco, Aug 21 ,9:30pm-2:30am,174978,261
-9,Dubfire , Audio ,San Francisco, Jul 6 ,9:30pm-2am,171712,59
-10,Purity Ring ***POSTPONED*** , Fox Theater ,Oakland, Jun 7 ,7:30pm,154107,40
-11,Stormzy , Fox Theater ,Oakland, May 26 ,8pm,138086,75
-12,Murda Beatz , Temple Nightclub ,San Francisco, May 29 ,10pm-3am,132803,112
-13,Phaeleh , 1015 Folsom ,San Francisco, Aug 13 ,8pm-11:30pm,100880,111
-14,Jan Blomqvist & Band , The Independent ,San Francisco, Sep 10 ,9pm,99165,106
-15,Jan Blomqvist & Band , The Independent ,San Francisco, Sep 11 ,9pm,99165,106
-16,Camelphat , The Midway ,San Francisco, Oct 3 ,10pm-3am,97035,204
-17,Gammer , Park Ultra Lounge ,Sacramento, Sep 3 ,10pm-3am,81909,51
-18,Bedouin & Einmusik , Public Works ,San Francisco, Nov 6 ,9pm-3:30am,72062,16
-19,Artbat , Audio ,San Francisco, Jul 8 ,9:30pm-2am,69471,2
-20,Dom Dolla , Fulton 55 ,Fresno, Jul 14 ,9pm-2am,68160,38
-21,STRFKR , The Regency Ballroom ,San Francisco, Jun 6 ,8pm,61393,318
-22,Jody Wisternoff , Audio ,San Francisco, Sep 25 ,9:30pm-2:30am,61063,218
-23,Jody Wisternoff , Audio ,San Francisco, Sep 26 ,9:30pm-2:30am,61063,218
-24,An-Ten-Nae , Arcata Theatre Lounge ,Arcata, Sep 12 ,10pm-2am,49689,132
-25,Phutureprimitive , Arcata Theatre Lounge ,Arcata, Sep 19 ,9:30pm-1:30am,47792,46
-26,Phutureprimitive , The Independent ,San Francisco, Jul 18 ,9pm,47792,46
-27,Dosem , Audio ,San Francisco, Jun 26 ,9:30pm-2am,42485,169
-28,Township Rebellion , Audio ,San Francisco, Jul 24 ,9:30pm-2am,41252,59
-29,Oshun #100K Tour , Brick And Mortar Music Hall ,San Francisco, Oct 23 ,8pm,39453,45
-30,Folamour , Audio ,San Francisco, Jul 13 ,9:30pm-2am,39366,50
-31,Of Montreal , The Uc Theatre Taube Family Music Hall ,Berkeley, Jul 29 ,8pm-11:59pm,36365,353
-32,Beauz , Cornerstone ,Berkeley, Sep 11 ,8:30pm-11:30pm,28789,39
-33,Andrey Pushkarev , TBA ,San Francisco, Jun 6 ,11:59pm-7am,28481,49
-34,Meduza , 1015 Folsom ,San Francisco, Jun 18 ,9pm-1am,26557,22
-35,Jason Ross , 1015 Folsom ,San Francisco, May 22 ,10pm-3am,24391,97
-36,Memba , The Independent ,San Francisco, Sep 19 ,9pm,23854,39
-37,i_o , Fulton 55 ,Fresno, Aug 27 ,9pm-2am,23751,22
-38,Shallou , Fox Theater ,Oakland, May 29 ,8pm,22810,36
-39,Menno De Jong , Halcyon ,San Francisco, Jun 5 ,10pm-3am,21466,240
-40,Cypress Hill , Fox Theater ,Oakland, Aug 14 ,7:30pm,19885,425
-41,[Rescheduled] Luigi Tozzi , F8 1192 Folsom ,San Francisco, Oct 2 ,9pm-4am,18173,42
-42,Yves Tumor & Its Band , 1015 Folsom ,San Francisco, Sep 24 ,9pm-12am,17076,23
-43,NOTD , Slim's ,San Francisco, May 22 ,9pm-11:59pm,16189,33
-44,Dan Deacon , Harlow's ,Sacramento, Nov 1 ,7pm,15433,173
-45,Dan Deacon , The Fillmore ,San Francisco, Oct 31 ,9pm,15433,173
-46,Bottlerock 2020 , Bottlerock ,Napa Valley, Oct 2-Sun: Oct 4 ,Fri: 12pm-Sun: 10pm,12882,36
-47,Outside Lands 2020 , Golden Gate Park ,San Francisco, Aug 7-Sun: Aug 9 ,Fri: 11am-Sun: 11pm,10737,7566
-48,J. Worra , Audio ,San Francisco, Jun 27 ,9:30pm-2am,10331,27
-49,David Harness , Lost & Found ,Oakland, Jun 7 ,2pm-9pm,5997,40
-50,Kyary Pamyu Pamyu , The Regency Ballroom ,San Francisco, Oct 15 ,8pm,3182,108
-51,Ivardensphere and This Morn , Elbo Room Jack London ,Oakland, Jun 6 ,9pm-1am,1225,153
-52,Pizza and Techno , Audio Nightclub ,San Francisco, Aug 1 ,1pm-8pm,653,40
-53,Be Svendsen 'Man On The Run' Tour 2020 , 906 World Cultural Center ,San Francisco, Oct 9 ,7pm-11pm,267,1404
-54,"Goodie Mob: Cee-Lo Green, Big Gipp, Khujo & T-Mo ", The New Parish ,Oakland, Sep 27 ,9pm-11:30pm,41,7
-55,Green Goddess 3 , TBA ,Sacramento, Jun 5-Sun: Jun 7 ,Fri: 3pm-Sun: 6pm,8,2313554
-56,Dnb In The Park Pt. 7 , Rod Beaudry Dr ,Sacramento, May 31 ,12pm-8pm,0,0
-57,Cuff Records Usa Tour w/ Amine Edge & Dance + Clyde P , Audio ,San Francisco, Sep 12 ,2pm-7pm,0,0
-58,CloZee w/ Fakear & Rome In Silver , The Catalyst ,Santa Cruz, May 31 ,9pm-12am,0,0
-59,"As You Like It w/ Physical Therapy & Flora Fm, Gayphextwin, Patrick Lotilla ", F8 1192 Folsom ,San Francisco, May 30 ,9:30pm-4am,0,0
-60,Luttrell - Rescheduled , 1015 Folsom ,San Francisco, Sep 17 ,10pm,0,0
-61,Monster Energy Up & Up Festival Presents Troyboi , TBA ,San Jose, Sep 10 ,7:30pm-11:30pm,0,0
-62,Heaven On Earth 2020 , TBA ,Grass Valley, Sep 18 ,4pm,0,0
-63,Subsessions w/ Rusko , The Midway ,San Francisco, Jun 12 ,9pm-1am,0,0
-64,South Bay Showcase Round 2 , Sunnyvale Baylands Park ,Sunnyvale, May 30 ,12pm-8pm,0,0
-65,Rescheduled: Sequence 09.24: Delta Heavy , DNA Lounge ,San Francisco, Sep 24 ,9pm-2am,0,0
-66,The Untz Festival 2020 , Sycamore Ranch ,Browns Valley, May 29-Mon: Jun 1 ,Fri: 4pm-Mon: 7am,0,0
-67,Ext After-Hours - The Experience Weekend Official Afterhours , Oasis ,San Francisco, May 24 ,2am-8am,0,0
-68,Gammer - Rescheduled , Park Ultra Lounge ,Sacramento, Sep 3 ,9pm-2am,0,0
-69,Robot Ears: Luigi Tozzi , F8 1192 Folsom ,San Francisco, Oct 2 ,9pm-4am,0,0
-70,Odd One Outside w/ Yotto , The San Francisco Mint ,San Francisco, May 23 ,2pm-8pm,0,0
-71,Tomm- ¼A$H , The Independent ,San Francisco, Oct 5 ,8pm,0,0
-72,Floating Points - Live , Gray Area ,San Francisco, Oct 7 ,9pm-12am,0,0
-73,"[Postponed] Satori, Geju & Niki Sadeki ", Public Works ,San Francisco, Oct 10 ,9:30pm-3:30am,0,0
-74,"Kruder & Dorfmeister, DJ Kramer, Ben Seagren ***POSTPONED*** ", The Midway ,San Francisco, Oct 15 ,9pm-3am,0,0
-75,Einsturzende Neubauten - The Year Of The Rat Tour , The Fillmore ,San Francisco, Oct 16 ,8pm,0,0
-76,FAF's Houseology *ing Dirtybird's 2Tails Keeping You Alive Tour , Brasserie Capitale ,Sacramento, May 22 ,9pm-1:30am,0,0
-77,"Jvna, Slumberjack ", The Regency Ballroom ,San Francisco, Nov 14 ,9pm,0,0
-78,Sequence: Arius , DNA Lounge ,San Francisco, Sep 3 ,9pm-2am,0,0
-79,Safra Presents Soiree By Pipe & Pochet , The Midway ,San Francisco, Jun 5 ,9pm-3am,0,0
-80,Rescheduled: Sequence 08.28: Spag Heddy & Effin , DNA Lounge ,San Francisco, Aug 28 ,9pm-3am,0,0
-81,Postponed: Artbat + Woralks , The San Francisco Mint ,San Francisco, Jul 14 ,2pm-8pm,0,0
-82,"Ayli 10 Year Kickoff: Joy Orbison b2b Ben Ufo, Or:LA ", Public Works ,San Francisco, Jul 10 ,9pm-4am,0,0
-83,Ben Bohmer (Live) ***POSTPONED*** , Audio ,San Francisco, Jul 9 ,9:30pm-2:30am,0,0
-84,"Ritual SF Returns: Antiserum, Gladkill, Switchblade, Nebakaneza, J5 ", DNA Lounge ,San Francisco, Jun 6 ,9pm-3am,0,0
-85,Sunday Bliss w/ Mr. V & Nelson Cuberli , Lost & Found ,Oakland, Jul 5 ,2pm-9pm,0,0
-86,Attlas , Audio ,San Francisco, Jul 4 ,9:30pm-2am,0,0
-87,Priceless 2020 , Belden Town ,Belden, Jul 2-Sun: Jul 5 ,Thu: 3pm-Sun: 12pm,0,0
-88,44 To The Floor , Lvl 44 ,San Jose, Jul 1 ,10pm-2am,0,0
-89,Shifting Plates: An East Bay Record Fair , CCW Bar and Restaurant ,Oakland, Jun 7 ,10am-6pm,0,0
-90,Chromeo DJ Set , Fulton 55 ,Fresno, Jun 26 ,9pm-2am,0,0
-91,"Algorithmic Art Assembly 2020: Richard Devine, Myriam Bleau, Yacht, Kindohm, Trash Panda Qc, Calum Gunn, Cndsd, Curtis Roads, Ellen Phan, Heavy Lifting, Lilium D Ayter, Shatter Pattern , Tom Hall, William Fields, {Arsonsist} ", Gray Area ,San Francisco, Jun 26 ,12pm-12am,0,0
-92,"Peekaboo: The Impossible Tour w/Zeke Beats, Isoxo ", The Regency Ballroom ,San Francisco, Jun 20 ,9pm,0,0
-93,"Fisher: Bay Area Block Party w/Felix da Housecat, SG Lewis, Solardo, Lady Ryan , Sharon Buck, Michael Bricker / Ice Creams b2b Wilaa, DJ Katie / Viszla , DJ Mes / Phleck ", Lake Merritt Plaza ,Oakland, Jun 20 ,2pm,0,0
-94,StarVibes Campout 2020 , TBA ,Piercy, Jun 12-Mon: Jun 15 ,Fri: 12pm-Mon: 12pm,0,0
-95,Lee Reynolds (Desert Hearts) , Fulton 55 ,Fresno, Jun 19 ,9pm-2am,0,0
-96,Stilldream Festival 20 - Summer Solstice , Belden Town ,Belden, Jun 18-Mon: Jun 22 ,Thu: 12pm-Mon: 11am,0,0
-97,Audiotistic Bay Area 2020 , Shoreline Amphitheatre ,Mountain View, Jul 11-Sun: Jul 12 ,Sat: 2pm-Sun: 10pm,0,0
-98,Northern Nights Music Festival 2020 , Cooks Valley Campground ,Piercy, Jul 17-Mon: Jul 20 ,Fri: 10am-Mon: 10am,0,0
-99,Bay Area House Dance Festival 2020 - 24 Hour House Dance Cypher , TBA ,West Oakland, Aug 28-Sun: Aug 30 ,Fri: 8pm-Sun: 10pm,0,0
-100,NGHTMRE - Portal Tour , Bill Graham Civic Auditorium ,San Francisco, Jun 6 ,8pm,0,0
-101,Heatwave Rooftop Party , Hotel Via ,San Francisco, Aug 23 ,1pm-8pm,0,0
-102,"Whethan, Chrome Sparks, Ramzoid ", The Warfield ,San Francisco, Aug 22 ,8pm,0,0
-103,The Menagerie Ft. Diplo , The Midway ,San Francisco, Jun 13 ,2pm-10pm,0,0
-104,Rescheduled: Sequence 08.13: Tisoki + Minesweepa , DNA Lounge ,San Francisco, Aug 13 ,9pm-2am,0,0
-105,Phantoms (DJ Set) , Audio ,San Francisco, Aug 7 ,9:30pm-2am,0,0
-106,Some Are Camp 2020 - The World , 15905 River Rd ,Guerneville, Aug 7-Sun: Aug 9 ,Fri: 11am-Sun: 7pm,0,0
-107,Sunday Bliss 5yr Anniversary w/ Seven Davis Jr. , Lost And Found ,Oakland, Aug 2 ,2pm-9pm,0,0
-108,Cazzette , Audio ,San Francisco, Jul 31 ,9:30pm-2am,0,0
-109,Star Camp Shasta 2020 , StarSeed ,Mount Shasta, Jul 31-Mon: Aug 3 ,Fri: 7pm-Mon: 12pm,0,0
-110,Sequence: Gentlemens Club + Dirtysnatcha , DNA Lounge ,San Francisco, Jul 30 ,9pm-2am,0,0
-111,Rescheduled: Sequence 07.30: Gentlemens Club + Dirtysnatcha , DNA Lounge ,San Francisco, Jul 30 ,9pm-2am,0,0
-112,Ghostdragon w/ Dyln , Cornerstone ,Berkeley, Jul 25 ,7pm-12am,0,0
-113,Dreamers Collective Campout #8 , Minersville Campground ,Trinity Center, May 22-Mon: May 25 ,Fri: 2pm-Mon: 2pm,0,0
-114,Sunset Campout 2020 , Belden Town ,Belden, Jul 24-Mon: Jul 27 ,Fri: 12pm-Mon: 9am,0,0
-115,Safra | Permission To Land w/ Facundo Mohrr and Friends , The Midway ,San Francisco, Jul 19 ,2pm-9pm,0,0
-116,Set's Stay at Home Virtual Festival , Livestream ,Online, May 15-Sat: May 16 ,Fri: 2pm-Sat: 2pm,0,0
+,Artist,Event_link,Club,City,Date,Time,Followers,Tracks
+0,Tiesto ,https://www.facebook.com/theyreheresf/events/, 1015 Folsom ,San Francisco, Jun 19 ,10pm-3am,1872219,822
+1,Marshmello Presents Joytime: Into The Melloverse Tour ,https://www.ticketmaster.com/marshmello-san-francisco-california-09-29-2020/event/1C005859FB169E62, Bill Graham Civic Auditorium ,San Francisco, Sep 29 ,7pm,1283407,118
+2,Portico Quartet ,https://grayarea.org/event/portico-quartet/, Gray Area ,San Francisco, Jul 2 ,8pm-12am,813658,111
+3,San Holo ,https://www1.ticketmaster.com/san-holo-san-francisco-california-03-21-2020/event/1C00582AF8B9893D, Bill Graham Civic Auditorium ,San Francisco, Nov 21 ,8pm,458600,134
+4,Robin Schulz ,https://www.facebook.com/events/982206848587416/, Love And Propaganda ,San Francisco, Jun 27 ,9:30pm-2am,430137,218
+5,Slander ,https://www.facebook.com/events/529721134066176/, Bill Graham Civic Auditorium ,San Francisco, Oct 30 ,8pm,357656,58
+6,Snakehips ,https://www.facebook.com/events/529721134066176/, 1015 Folsom ,San Francisco, Oct 15 ,9pm-2am,312615,110
+7,Mat Zo ,https://www.eventbrite.com/e/mat-zo-tickets-92258482605, Audio ,San Francisco, Aug 21 ,9:30pm-2:30am,175095,262
+8,Dubfire ,https://www.facebook.com/wishbarsf/, Audio ,San Francisco, Jul 6 ,9:30pm-2am,172041,59
+9,Purity Ring ***POSTPONED*** ,https://www1.ticketmaster.com/event/1C00584DD83A8E30, Fox Theater ,Oakland, Jun 7 ,7:30pm,154168,40
+10,Cazzette ,https://www.residentadvisor.net/events/1373836, Audio ,San Francisco, Jul 31 ,9:30pm-2am,135704,188
+11,Phaeleh ,https://www.eventbrite.com/e/phantoms-dj-set-tickets-95285289867, 1015 Folsom ,San Francisco, Aug 13 ,8pm-11:30pm,100913,111
+12,Jan Blomqvist & Band ,https://www.ticketweb.com/event/jan-blomqvist-band-the-independent-tickets/10331385, The Independent ,San Francisco, Sep 10 ,9pm,99714,106
+13,Jan Blomqvist & Band ,https://www.ticketweb.com/event/jan-blomqvist-band-the-independent-tickets/10331385, The Independent ,San Francisco, Sep 11 ,9pm,99714,106
+14,Camelphat ,https://www.residentadvisor.net/events/1373836, The Midway ,San Francisco, Oct 3 ,10pm-3am,97710,204
+15,Gammer ,https://www.eventbrite.com/e/gammer-rescheduled-to-september-tickets-94562832979, Park Ultra Lounge ,Sacramento, Sep 3 ,10pm-3am,81998,51
+16,Bedouin & Einmusik ,https://www.eventbrite.com/e/postponed-bedouin-einmusik-at-public-works-tickets-94736488387, Public Works ,San Francisco, Nov 6 ,9pm-3:30am,72502,16
+17,Artbat ,https://www.eventbrite.com/e/artbat-tickets-98500707267, Audio ,San Francisco, Jul 8 ,9:30pm-2am,70736,2
+18,Dom Dolla ,https://bit.ly/DomDollaFresno, Fulton 55 ,Fresno, Jul 14 ,9pm-2am,68616,38
+19,Jody Wisternoff ,https://www.eventbrite.com/e/jody-wisternoff-tickets-92389458357, Audio ,San Francisco, Sep 25 ,9:30pm-2:30am,61389,219
+20,Jody Wisternoff ,https://www.eventbrite.com/e/jody-wisternoff-tickets-92389458357, Audio ,San Francisco, Sep 26 ,9:30pm-2:30am,61389,219
+21,An-Ten-Nae ,https://holdmyticket.com/event/359216?fbclid=IwAR0Pri7j-Wn9Ba0mFy8VWXhBIr9a-qll5eZnbIOmPxX3X1eMNVP8QnawvhQ, Arcata Theatre Lounge ,Arcata, Sep 12 ,10pm-2am,49783,132
+22,Phutureprimitive ,https://www.ticketweb.com/event/phutureprimitive-the-independent-tickets/10249905, Arcata Theatre Lounge ,Arcata, Sep 19 ,9:30pm-1:30am,47860,46
+23,Phutureprimitive ,https://www.ticketweb.com/event/phutureprimitive-the-independent-tickets/10249905, The Independent ,San Francisco, Jul 18 ,9pm,47860,46
+24,Dosem ,https://www.eventbrite.com/e/dosem-tickets-96755232505, Audio ,San Francisco, Jun 26 ,9:30pm-2am,42570,169
+25,Township Rebellion ,https://www.facebook.com/theyreheresf/events/, Audio ,San Francisco, Jul 24 ,9:30pm-2am,41527,59
+26,Folamour ,https://www.eventbrite.com/e/folamour-tickets-90701146571, Audio ,San Francisco, Jul 13 ,9:30pm-2am,40000,50
+27,Oshun #100K Tour ,https://www.ticketweb.com/event/oshun-100k-tour-brick-and-mortar-music-hall-tickets/10464695?pl=brickmortarshp, Brick And Mortar Music Hall ,San Francisco, Oct 23 ,8pm,39540,45
+28,Of Montreal ,https://www.facebook.com/events/537564236626691/, The Uc Theatre Taube Family Music Hall ,Berkeley, Jul 29 ,8pm-11:59pm,36383,353
+29,Attlas ,http://www.afternoonbliss.com/, Audio ,San Francisco, Jul 4 ,9:30pm-2am,30243,54
+30,Beauz ,https://www.eventbrite.com/e/postponed-bedouin-einmusik-at-public-works-tickets-94736488387, Cornerstone ,Berkeley, Sep 11 ,8:30pm-11:30pm,28859,39
+31,Meduza ,https://www.eventbrite.com/e/meduza-at-1015-folsom-tickets-95290555617, 1015 Folsom ,San Francisco, Jun 18 ,9pm-1am,27137,22
+32,Squarepusher ,https://www.facebook.com/events/529721134066176/, The Regency Ballroom ,San Francisco, Dec 10 ,9pm,26784,138
+33,Tomm- +A$H ,https://www.facebook.com/theyreheresf/events/, The Independent ,San Francisco, Oct 5 ,8pm,24267,6
+34,i_o ,, Fulton 55 ,Fresno, Aug 27 ,9pm-2am,24075,22
+35,Memba ,https://www.eventbrite.com/e/meduza-at-1015-folsom-tickets-95290555617, The Independent ,San Francisco, Sep 19 ,9pm,23961,39
+36,Cypress Hill ,https://www.facebook.com/hiphopforchange/events, Fox Theater ,Oakland, Aug 14 ,7:30pm,20107,425
+37,[Rescheduled] Luigi Tozzi ,https://www.residentadvisor.net/events/1400340, F8 1192 Folsom ,San Francisco, Oct 2 ,9pm-4am,18298,42
+38,Yves Tumor & Its Band ,, 1015 Folsom ,San Francisco, Sep 24 ,9pm-12am,17207,23
+39,Dan Deacon ,https://www.facebook.com/events/1572194032929801/, Harlow's ,Sacramento, Nov 1 ,7pm,15454,173
+40,Dan Deacon ,https://www.facebook.com/events/1572194032929801/, The Fillmore ,San Francisco, Oct 31 ,9pm,15454,173
+41,Bottlerock 2020 ,https://www.facebook.com/BootieSF/events, Bottlerock ,Napa Valley, Oct 2-Sun: Oct 4 ,Fri: 12pm-Sun: 10pm,12891,36
+42,Outside Lands 2020 ,https://www.sfoutsidelands.com/, Golden Gate Park ,San Francisco, Aug 7-Sun: Aug 9 ,Fri: 11am-Sun: 11pm,10771,7614
+43,J. Worra ,https://www.eventbrite.com/e/j-worra-tickets-97243932219, Audio ,San Francisco, Jun 27 ,9:30pm-2am,10407,27
+44,David Harness ,https://www.facebook.com/events/450309985901970/, Lost & Found ,Oakland, Jun 7 ,2pm-9pm,6013,40
+45,Kyary Pamyu Pamyu ,https://www.axs.com/events/391612/kyary-pamyu-pamyu-tickets?cid=aff_fb-oea-official-102180, The Regency Ballroom ,San Francisco, Oct 15 ,8pm,3205,108
+46,Resonant Frequencies 028 ,https://www.eventbrite.com/e/rescheduled-sequence-0730-gentlemens-club-dirtysnatcha-tickets-99139285271, Livestream ,Online, Jun 7 ,6pm-10pm,1615,37
+47,Kraftwerk 3-D ,https://www.ticketmaster.com/event/1C0058540DB8BE6E, Bill Graham Civic Auditorium ,San Francisco, Jun 23 ,8pm-10pm,1492,11308577
+48,Pizza and Techno ,https://www.eventbrite.com/e/pizza-and-techno-at-audio-sf-freshly-baked-2020-tickets-95121361553, Audio Nightclub ,San Francisco, Aug 1 ,1pm-8pm,661,40
+49,Patch Pulse: Xyla & Somni ,https://grayarea.org/event/patch-pulse-xyla-somni/, Livestream ,Online, Jun 12 ,8pm-10pm,84,90
+50,"Goodie Mob: Cee-Lo Green, Big Gipp, Khujo & T-Mo ",https://www.facebook.com/events/142074986458785/, The New Parish ,Oakland, Sep 27 ,9pm-11:30pm,41,7
+51,Green Goddess 3 ,https://www.facebook.com/events/142074986458785/, TBA ,Sacramento, Jun 5-Sun: Jun 7 ,Fri: 3pm-Sun: 6pm,8,2322966
+52,Rescheduled: Sequence 09.24: Delta Heavy ,https://www.eventbrite.com/e/rescheduled-sequence-0730-gentlemens-club-dirtysnatcha-tickets-99139285271, DNA Lounge ,San Francisco, Sep 24 ,9pm-2am,0,0
+53,The Menagerie Ft. Diplo ,https://www.tixr.com/groups/midwaysf/events/higher-ground-presents-diplo-the-menagerie-18324, The Midway ,San Francisco, Jun 13 ,2pm-10pm,0,0
+54,Space Cowboys Presents Livecast 9 ,https://www.facebook.com/events/529721134066176/, Livestream ,Online, Jun 13 ,6pm-12am,0,0
+55,Subsessions w/ Rusko ,https://www.facebook.com/events/1373113716185108/, The Midway ,San Francisco, Jun 12 ,9pm-1am,0,0
+56,Heaven On Earth 2020 ,https://www.eventbrite.com/e/heatwave-60s-motown70s-discoclassic-house-rooftop-day-party-tickets-94788546093, TBA ,Grass Valley, Sep 18 ,4pm,0,0
+57,Luttrell - Rescheduled ,https://www.facebook.com/events/412700876262903/, 1015 Folsom ,San Francisco, Sep 17 ,10pm,0,0
+58,"Wormhole: The Widdler, DMVU, Secret Recipe, Phers ",https://www.twitch.tv/wormholelive, Livestream ,Online, Jun 17 ,6pm-11pm,0,0
+59,Cuff Records Usa Tour w/ Amine Edge & Dance + Clyde P ,https://www.facebook.com/hiphopforchange/events, Audio ,San Francisco, Sep 12 ,2pm-7pm,0,0
+60,StarVibes Campout 2020 ,https://www.facebook.com/events/301806020539991/, TBA ,Piercy, Jun 12-Mon: Jun 15 ,Fri: 12pm-Mon: 12pm,0,0
+61,Robot Ears: Luigi Tozzi ,https://www.facebook.com/events/982206848587416/, F8 1192 Folsom ,San Francisco, Oct 2 ,9pm-4am,0,0
+62,Lee Reynolds (Desert Hearts) ,https://www.facebook.com/events/412700876262903/, Fulton 55 ,Fresno, Jun 19 ,9pm-2am,0,0
+63,Floating Points - Live ,https://www.eventbrite.com/e/floating-points-live-tickets-76480937543, Gray Area ,San Francisco, Oct 7 ,9pm-12am,0,0
+64,The Untz Festival 2020 ,https://www.tixr.com/groups/midwaysf/events/higher-ground-presents-diplo-the-menagerie-18324, Sycamore Ranch ,Browns Valley, Oct 9-Mon: Oct 12 ,Fri: 4pm-Mon: 7am,0,0
+65,Be Svendsen 'Man On The Run' Tour 2020 ,https://www.eventbrite.com/e/be-svendsen-man-on-the-run-tickets-89869515139, 906 World Cultural Center ,San Francisco, Oct 9 ,7pm-11pm,0,0
+66,"[Postponed] Satori, Geju & Niki Sadeki ",https://www.residentadvisor.net/events/1400340, Public Works ,San Francisco, Oct 10 ,9:30pm-3:30am,0,0
+67,"Wormhole: X&G, Nastynasty, Noer The Boy, Shanghai Doom ",https://www.twitch.tv/wormholelive, Livestream ,Online, Jun 10 ,6pm-11pm,0,0
+68,"Kruder & Dorfmeister, DJ Kramer, Ben Seagren ***POSTPONED*** ",https://www.residentadvisor.net/events/1388733, The Midway ,San Francisco, Oct 15 ,9pm-3am,0,0
+69,Einsturzende Neubauten - The Year Of The Rat Tour ,https://www.facebook.com/wishbarsf/, The Fillmore ,San Francisco, Oct 16 ,8pm,0,0
+70,Resident Electronic Music (June 2020) - Home Edition ,https://www.eventbrite.com/e/rescheduled-sequence-0730-gentlemens-club-dirtysnatcha-tickets-99139285271, Livestream ,Online, Jun 9 ,3pm-6pm,0,0
+71,"Jvna, Slumberjack ",https://www.eventbrite.com/e/jody-wisternoff-tickets-92389458357, The Regency Ballroom ,San Francisco, Nov 14 ,9pm,0,0
+72,Dirtybird BBQ Live Stream ,https://www.facebook.com/madroneartbar/events, Livestream ,Online, Jun 7 ,12pm-11pm,0,0
+73,Stilldream Festival 20 - Summer Solstice ,https://www.facebook.com/events/301806020539991/, Belden Town ,Belden, Jun 18-Mon: Jun 22 ,Thu: 12pm-Mon: 11am,0,0
+74,Priceless 2020 ,https://www.facebook.com/pushthefeeling/events, Belden Town ,Belden, Jul 2-Sun: Jul 5 ,Thu: 3pm-Sun: 12pm,0,0
+75,Dancing Ghosts / 13 Year Anniversary ,https://www.facebook.com/events/1572194032929801/, Cat Club ,San Francisco, Jun 19 ,9:30pm-2:30am,0,0
+76,"Algorithmic Art Assembly 2020: Richard Devine, Myriam Bleau, Yacht, Kindohm, Trash Panda Qc, Calum Gunn, Cndsd, Curtis Roads, Ellen Phan, Heavy Lifting, Lilium D Ayter, Shatter Pattern , Tom Hall, William Fields, {Arsonsist} ",https://aaassembly.org/, Gray Area ,San Francisco, Jun 26 ,12pm-12am,0,0
+77,"Peekaboo: The Impossible Tour w/Zeke Beats, Isoxo ",https://www.facebook.com/pushthefeeling/events, The Regency Ballroom ,San Francisco, Jun 20 ,9pm,0,0
+78,Ghostdragon w/ Dyln ,https://www.eventbrite.com/e/ghostdragon-live-set-plus-special-guest-dyln-tickets-88044045109, Cornerstone ,Berkeley, Jul 25 ,7pm-12am,0,0
+79,Sunset Campout 2020 ,https://www.facebook.com/events/505020153446995/, Belden Town ,Belden, Jul 24-Mon: Jul 27 ,Fri: 12pm-Mon: 9am,0,0
+80,Safra | Permission To Land w/ Facundo Mohrr and Friends ,https://www1.ticketmaster.com/san-holo-san-francisco-california-03-21-2020/event/1C00582AF8B9893D, The Midway ,San Francisco, Jul 19 ,2pm-9pm,0,0
+81,"Wormhole: Conrank, Deez, Elevated Mind, Saka, Furth ",https://www.twitch.tv/wormholelive, Livestream ,Online, Jun 24 ,6pm-11pm,0,0
+82,Northern Nights Music Festival 2020 ,https://www.facebook.com/Temple.Nightclub.SF/events, Cooks Valley Campground ,Piercy, Jul 17-Mon: Jul 20 ,Fri: 10am-Mon: 10am,0,0
+83,Postponed: Artbat + Woralks ,https://grayarea.org/event/portico-quartet/, The San Francisco Mint ,San Francisco, Jul 14 ,2pm-8pm,0,0
+84,Monster Energy Up & Up Festival Presents Troyboi ,https://www.facebook.com/mnmlfun/events, TBA ,San Jose, Sep 10 ,7:30pm-11:30pm,0,0
+85,Chromeo DJ Set ,https://www.facebook.com/hiphopforchange/events, Fulton 55 ,Fresno, Jun 26 ,9pm-2am,0,0
+86,Audiotistic Bay Area 2020 ,http://www.afternoonbliss.com/, Shoreline Amphitheatre ,Mountain View, Jul 11-Sun: Jul 12 ,Sat: 2pm-Sun: 10pm,0,0
+87,"Ayli 10 Year Kickoff: Joy Orbison b2b Ben Ufo, Or:LA ",https://www.residentadvisor.net/events/1401181, Public Works ,San Francisco, Jul 10 ,9pm-4am,0,0
+88,Ben Bohmer (Live) ***POSTPONED*** ,https://www.eventbrite.com/e/postponed-bedouin-einmusik-at-public-works-tickets-94736488387, Audio ,San Francisco, Jul 9 ,9:30pm-2:30am,0,0
+89,Pink Block  Pride Saturday 2020 ,https://www.eventbrite.com/e/pizza-and-techno-at-audio-sf-freshly-baked-2020-tickets-95121361553, The Great Northern ,San Francisco, Jun 27 ,12pm-9pm,0,0
+90,Sunday Bliss w/ Mr. V & Nelson Cuberli ,https://www.facebook.com/events/505020153446995/, Lost & Found ,Oakland, Jul 5 ,2pm-9pm,0,0
+91,Rescheduled: Sequence 07.30: Gentlemens Club + Dirtysnatcha ,https://www.eventbrite.com/e/rescheduled-sequence-0730-gentlemens-club-dirtysnatcha-tickets-99139285271, DNA Lounge ,San Francisco, Jul 30 ,9pm-2am,0,0
+92,Sequence: Gentlemens Club + Dirtysnatcha ,https://www.facebook.com/events/529721134066176/, DNA Lounge ,San Francisco, Jul 30 ,9pm-2am,0,0
+93,Star Camp Shasta 2020 ,https://www.facebook.com/events/301806020539991/, StarSeed ,Mount Shasta, Jul 31-Mon: Aug 3 ,Fri: 7pm-Mon: 12pm,0,0
+94,Shifting Plates: An East Bay Record Fair ,https://www.eventbrite.com/e/shifting-plates-an-east-bay-record-fair-sun-april-5th-2020-tickets-93452708567, CCW Bar and Restaurant ,Oakland, Jun 7 ,10am-6pm,0,0
+95,Sunday Bliss 5yr Anniversary w/ Seven Davis Jr. ,https://www.facebook.com/events/505020153446995/, Lost And Found ,Oakland, Aug 2 ,2pm-9pm,0,0
+96,Some Are Camp 2020 - The World ,https://www.facebook.com/events/529721134066176/, 15905 River Rd ,Guerneville, Aug 7-Sun: Aug 9 ,Fri: 11am-Sun: 7pm,0,0
+97,Phantoms (DJ Set) ,https://www.eventbrite.com/e/phantoms-dj-set-tickets-95285289867, Audio ,San Francisco, Aug 7 ,9:30pm-2am,0,0
+98,"Fisher: Bay Area Block Party w/Felix da Housecat, SG Lewis, Solardo, Lady Ryan , Sharon Buck, Michael Bricker / Ice Creams b2b Wilaa, DJ Katie / Viszla , DJ Mes / Phleck ",https://insomniac.frontgatetickets.com/event/zzn92tae7eq9nja9, Lake Merritt Plaza ,Oakland, Jun 20 ,2pm,0,0
+99,Rescheduled: Sequence 08.13: Tisoki + Minesweepa ,https://www.eventbrite.com/e/rescheduled-sequence-0730-gentlemens-club-dirtysnatcha-tickets-99139285271, DNA Lounge ,San Francisco, Aug 13 ,9pm-2am,0,0
+100,[Cancelled] All Day I Dream Of Golden Days ,https://www.residentadvisor.net/events/1400340, Golden Gate Park ,San Francisco, Jun 20 ,12pm-7pm,0,0
+101,"Whethan, Chrome Sparks, Ramzoid ",https://www.facebook.com/WERDUPSF/events, The Warfield ,San Francisco, Aug 22 ,8pm,0,0
+102,Heatwave Rooftop Party ,https://www.eventbrite.com/e/heatwave-60s-motown70s-discoclassic-house-rooftop-day-party-tickets-94788546093, Hotel Via ,San Francisco, Aug 23 ,1pm-8pm,0,0
+103,Bay Area House Dance Festival 2020 - 24 Hour House Dance Cypher ,https://www.facebook.com/events/626774528122954/, TBA ,West Oakland, Aug 28-Sun: Aug 30 ,Fri: 8pm-Sun: 10pm,0,0
+104,Rescheduled: Sequence 08.28: Spag Heddy & Effin ,https://www.eventbrite.com/e/rescheduled-sequence-0730-gentlemens-club-dirtysnatcha-tickets-99139285271, DNA Lounge ,San Francisco, Aug 28 ,9pm-3am,0,0
+105,Gammer - Rescheduled ,https://www.eventbrite.com/e/gammer-rescheduled-to-september-tickets-94562832979, Park Ultra Lounge ,Sacramento, Sep 3 ,9pm-2am,0,0
+106,Sequence: Arius ,https://www.facebook.com/events/529721134066176/, DNA Lounge ,San Francisco, Sep 3 ,9pm-2am,0,0
+107,44 To The Floor ,https://www.facebook.com/events/1284743545054583/, Lvl 44 ,San Jose, Jul 1 ,10pm-2am,0,0
+108,Club Necromancy - 3 Year Anniversary ,https://www.twitch/tv/djkeyz2020, Livestream ,Online, Jun 20 ,8am-1am,0,0

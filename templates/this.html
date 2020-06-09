@@ -20,6 +20,23 @@
       background-position: center; /* Center the image */
       background: url('https://s3.amazonaws.com/fest-production/2017/06/19/17/57/48/903/Kristina%20Bakrevski%20for%20Insomniac%201.jpg')
     }
+    .jumbotron {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background: rgb(3, 9, 34);
+    color: rgb(107, 235, 192)
+  }
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
+    background: rgb(249, 252, 215);
+  }
+p {
+    color:rgb(3, 9, 34);
+    font-size: 24px;
+  }
   </style>
   <div class="container text-center">
     <h1 class="jumbotron">This Month DJs</h1>
@@ -32,6 +49,10 @@
           #artist {
             font-weight: bold;
           }
+          #link {
+            font-size: 16px;
+            text-decoration: underline;
+          }
           </style>
 
         <!-- Loop through the dictionary -->
@@ -41,6 +62,8 @@
           <li style="color:rgba(26, 5, 145, 0.911)" id="artist">{{ artist }} performing at {{ artists[artist][0] }}</li>
           <li style="color:rgba(245, 58, 11, 0.911)">{{ artists[artist][1] }} SC followers and {{ artists[artist][2] }} posted tracks</li>
           <li style="color:rgba(29, 158, 47, 0.945)">When: on {{ artists[artist][3] }} at {{ artists[artist][4] }}</li>
+          <a  target="_blank" href="{{ artists[artist][5] }}" style="color:rgba(54, 194, 140, 0.945)" id="link">Link to event</a>
+          <br>
           <br>
         {% endfor %}
       </ul>
